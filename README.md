@@ -15,7 +15,7 @@ We are currently focusing on kernel stability and UI implementation.
 
 ## Collaborators
 - Mouhame Bourssac
-- [Insert Partner Name]
+
 
 ## License
 This project is licensed under the MIT License.
